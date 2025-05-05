@@ -1,0 +1,2 @@
+flask nima ?
+flask bu python dasurlash tilda yozilgan mini saytyasash texnologyasi!
